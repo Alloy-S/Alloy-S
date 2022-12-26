@@ -1,5 +1,5 @@
 # 💫 About Me:
-PCU'21<br>Computer Science
+PCU 21'<br>Computer Science
 
 
 ## 🌐 Socials:
@@ -11,6 +11,9 @@ PCU'21<br>Computer Science
 ![](https://github-readme-stats.vercel.app/api?username=Alloy-S&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alloy-S&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alloy-S&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Alloy-S&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
